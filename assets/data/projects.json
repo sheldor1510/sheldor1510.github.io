@@ -1,0 +1,78 @@
+{
+    "projects": {
+        "2021": [
+            {
+                "image": "https://media.discordapp.net/attachments/833423240646754334/833811696439001088/unknown.png",
+                "title": "CoDiff",
+                "description": "CoDiff is a VSCode extension that has live access to all your teammates' local changes, greatly improving communication: it notifies you of conflicts with teammates as they occur.",
+                "website": "https://marketplace.visualstudio.com/items?itemName=bar9.codiff",
+                "source": "https://github.com/cotnw/codiff"
+            },
+            {
+                "image": "https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/efcf40b9f9b043f38f82fa2d03a0154d/projects/c793422146584da2a9509d9c0f39a4a5/aedef7f2-04ea-4915-a898-2f8300fe5dd4.png",
+                "title": "COVICoin",
+                "description": "COVICoin is a gamified experience that gives users redeemable credits based on how many people they help. The system shows users specific tweets which are asking for leads about COVID resources.",
+                "website": "https://covicoin.herokuapp.com",
+                "source": "https://github.com/cotnw/covicoin"
+            },
+            {
+                "image": "https://cdn.discordapp.com/attachments/766636913343463454/856455498902929408/unknown.png",
+                "title": "COVID-19 Bot",
+                "description": "A Twitter bot that automatically replies to tweets requesting COVID related resources with links containing information about the availability.",
+                "website": "https://twitter.com/COVID19twtbot",
+                "source": "https://github.com/cotnw/covid19twtbot"
+            },
+            {
+                "image": "https://cdn.discordapp.com/attachments/766636913343463454/856467006467080222/68747470733a2f2f696d6775722e636f6d2f626364724272342e706e67.png",
+                "title": "Local Party",
+                "description": "A website where you can create rooms and chat while watching local video files synchronized with your friends.",
+                "website": "https://localparty.tk",
+                "source": "https://github.com/sheldor1510/local-party"
+            },
+            {
+                "image": "https://media.discordapp.net/attachments/733943303493386282/813495741736943656/unknown.png",
+                "title": "StarHub",
+                "description": "A chrome extension that tracks your GitHub stars so you don't have to.",
+                "website": "https://starhub.ml",
+                "source": "https://github.com/techsyndicate/starhub"
+            },
+            {
+                "image": "https://media.discordapp.net/attachments/766636913343463454/856451310077214720/unknown.png",
+                "title": "Know your traveller",
+                "description": "A mobile app connecting travellers and travelling agencies for seamless and safer post-COVID travel.",
+                "website": "https://github.com/kyt-app",
+                "source": "https://github.com/kyt-app/kyt-mobile"
+            }
+        ],
+        "2020": [
+            {
+                "image": "https://cdn.discordapp.com/attachments/767769692001402910/783426486521823292/unknown.png",
+                "title": "VSCode DMs",
+                "description": "Direct Messages is a simple way of messaging your developer friends and collaborating with them through VSCode.",
+                "website": "https://marketplace.visualstudio.com/items?itemName=techsyndicate.vscode-dms",
+                "source": "https://github.com/techsyndicate/vscode-dms"
+            },
+            {
+                "image": "https://media.discordapp.net/attachments/766636913343463454/856449317027446835/unknown.png",
+                "title": "Codimg",
+                "description": "A re-modelled approach to plagiarism detection which enables software owners to generate a report for themselves on where, how and what piece of code written by them has been used by developers around the world.",
+                "website": "https://codimg.herokuapp.com",
+                "source": "https://github.com/techsyndicate/codimg"
+            },
+            {
+                "image": "https://media.discordapp.net/attachments/766636913343463454/856446768295575562/unknown.png",
+                "title": "Lancerate",
+                "description": "A crowdsourced verification system for freelancers to know the ideal amount they should charge for their services.",
+                "website": "https://lancerate.herokuapp.com",
+                "source": "https://github.com/lancerate/lancerate-web"
+            },
+            {
+                "image": "https://media.discordapp.net/attachments/740500754724290600/740605802024271997/unknown.png",
+                "title": "Encryptid '20",
+                "description": "The platform for Encryptid '20 cryptic hunt built using Django, PostgreSQL, and Firestore.",
+                "website": "https://encryptid.live",
+                "source": "https://github.com/techsyndicate/encryptid-20"
+            }
+        ]
+    }
+}
