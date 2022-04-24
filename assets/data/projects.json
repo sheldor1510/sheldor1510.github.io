@@ -1,6 +1,50 @@
 {
     "projects": {
+        "2022": [
+            {
+                "image": "https://ph-files.imgix.net/38cbdb1f-f9d4-40a8-aa2a-373cfb7e463f.png",
+                "title": "Lyricsum",
+                "description": "Lorem Ipsum but it's song lyrics 🎵",
+                "website": "https://lyricsum.com",
+                "source": "https://github.com/sheldor1510/lyricsum"
+            },
+            {
+                "image": "https://cdn.discordapp.com/attachments/733945210148618273/967824396821602494/unknown.png",
+                "title": "Codr",
+                "description": "CLI tool to help start your coding projects",
+                "website": "https://www.youtube.com/watch?v=v1EGrT0pAu0",
+                "source": "https://github.com/gigabite-pro/codr"
+            },
+            {
+                "image": "https://camo.githubusercontent.com/6a60c3376a9f1d789439096a08d42e340da353dcb5654d20340a3f39d4e6a5db/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3837323734333733353338383137323331382f3932393531343735333932363233383238382f687474707333413246324673332d75732d776573742d322e706e67",
+                "title": "Mapcident",
+                "description": "An app that uses the phone's accelerometer to detect accidents and crashes.",
+                "website": "https://youtu.be/vfG1ZfVp-5k",
+                "source": "https://github.com/cotnw/mapcident"
+            }
+        ],
         "2021": [
+            {
+                "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/620/776/datas/gallery.jpg",
+                "title": "Markrate",
+                "description": "A platform that incentivizes its users with redeemable credits for promoting local businesses with fewer reviews on their social media handles.",
+                "website": "https://pumped-capricorn-097.notion.site/Markrate-79f4153fdf7440bba34be6d1e472d835",
+                "source": "https://github.com/cotnw/markrate"
+            },
+            {
+                "image": "https://ishaandas.com/images/Thumb.png",
+                "title": "Konnect",
+                "description": "Konnect aims to make it easy to find people to work with on your tech projects. It solves the problem of finding people to collaborate with on personal projects, something which professional networking platforms fail to do.",
+                "website": "https://konnect2021.herokuapp.com",
+                "source": "https://github.com/cotnw/konnect"
+            },
+            {
+                "image": "https://cdn.discordapp.com/attachments/733945210148618273/967819131149758514/h.png",
+                "title": "Encryptid '21",
+                "description": "The platform for Encryptid 2021, built with Express.js, Node.js, and MongoDB.",
+                "website": "https://encryptid.us",
+                "source": "https://github.com/techsyndicate/encryptid-21"
+            },
             {
                 "image": "https://media.discordapp.net/attachments/833423240646754334/833811696439001088/unknown.png",
                 "title": "CoDiff",
