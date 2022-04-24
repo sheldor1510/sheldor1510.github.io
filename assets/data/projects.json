@@ -4,21 +4,21 @@
             {
                 "image": "https://ph-files.imgix.net/38cbdb1f-f9d4-40a8-aa2a-373cfb7e463f.png",
                 "title": "Lyricsum",
-                "description": "Lorem Ipsum but it's song lyrics 🎵",
+                "description": "Lyricsum is a new way to generate placeholder text. It takes the lyrics of your favorite artists' songs and converts them into placeholder text which can be further customized.",
                 "website": "https://lyricsum.com",
                 "source": "https://github.com/sheldor1510/lyricsum"
             },
             {
                 "image": "https://cdn.discordapp.com/attachments/733945210148618273/967824396821602494/unknown.png",
                 "title": "Codr",
-                "description": "CLI tool to help start your coding projects",
+                "description": "CLI tool to help start your coding projects. It allows users to create new projects of varying technologies, view older projects, and search for projects using a specific command for each.",
                 "website": "https://www.youtube.com/watch?v=v1EGrT0pAu0",
                 "source": "https://github.com/gigabite-pro/codr"
             },
             {
                 "image": "https://camo.githubusercontent.com/6a60c3376a9f1d789439096a08d42e340da353dcb5654d20340a3f39d4e6a5db/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3837323734333733353338383137323331382f3932393531343735333932363233383238382f687474707333413246324673332d75732d776573742d322e706e67",
                 "title": "Mapcident",
-                "description": "An app that uses the phone's accelerometer to detect accidents and crashes.",
+                "description": "An app that uses the phone's accelerometer to detect accidents and crashes. It also allows users to see active accident sites near them so that they can go over to the specific location to provide aid. ",
                 "website": "https://youtu.be/vfG1ZfVp-5k",
                 "source": "https://github.com/cotnw/mapcident"
             }
